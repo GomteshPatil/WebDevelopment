@@ -1,0 +1,18 @@
+#table1 {
+    border: dashed;
+    background-color: bisque;
+}
+
+.head1 {
+    text-align: center;
+    background-color: rgb(161, 213, 236);
+}
+
+#body {
+    padding: 80px;
+    background-color: antiquewhite;
+}
+
+#table {
+    border: dashed black;
+}
